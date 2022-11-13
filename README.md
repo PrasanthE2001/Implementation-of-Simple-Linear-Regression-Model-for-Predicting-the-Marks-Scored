@@ -85,9 +85,10 @@ print("RMSE=",rmse)
 
 ![image](https://user-images.githubusercontent.com/114572171/201523140-653306cc-357b-4631-9ab4-9b69bbc5c36e.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114572171/201523339-42a32abb-2bac-4a6c-a2d5-77105d607d88.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114572171/201523348-3ee7f4c3-ebe0-4069-801e-8f105c53c958.png)
+
 
 
 
