@@ -9,8 +9,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the required libraries and read the dataframe.
+
 2.Assign hours to X and scores to Y.
+
 3.Implement training set and test set of the dataframe. 
+
 4.Plot the required graph both for test data and training data and Find the values of MSE , MAE and RMSE.
 
 ## Program:
